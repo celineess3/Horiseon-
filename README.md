@@ -2,7 +2,7 @@
 
 ## *Description*
 
-As a marketing agency, web accessibility is increasingly important for assistive technologies for people with disabilities, promotes better positioning in search engines such as Google and avoids issues such as litigation. As a junior web developer, I was motivated to improve the HTML and CSS styling elements so that the code follows a semantic and logical structure as well as having accessible attributes. Additionally, I wanted other developers to be able to easily access my code, understand the programming decisions I have made and recommend suggestions to improve both the readability of the code and accessibility of the website. In completing this project, I learnt how to clone a repo without forking the original file, improved my skills in understanding semantic structure and proper CSS formating. 
+As a marketing agency, web accessibility is increasingly important for assistive technologies for people with disabilities, promotes better positioning in search engines such as Google and avoids issues such as litigation. I was motivated to improve the HTML and CSS styling elements so that this code follows a semantic and logical structure as well as having accessible attributes. Additionally, I wanted other developers to be able to easily access my code, understand the programming decisions I have made and recommend suggestions to improve both the readability of the code and accessibility of the website. In completing this project, I learnt how to clone a repo without forking the original file, improved my skills in understanding semantic structure and proper CSS formating. 
 
 **Link to Horiseon- webpage: file:///C:/Users/celin/Horiseon-/index.html**
 
@@ -13,7 +13,7 @@ Note: GitBash was used to complete the installation
 2. Clone the starter code using the following commands on the GitBash interface
    2a. mkdir Horiseon (A folder was created that will include the starter code)
    2b. cd Horiseon (locating to the correct folder so that the starter code that be
-       correctly cloned
+       correctly cloned)
 
 Note: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository was used to help with the next following steps
 
