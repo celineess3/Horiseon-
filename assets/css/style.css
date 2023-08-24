@@ -1,3 +1,4 @@
+/*Universal Selector applies to all elements*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Header 1: Horiseon*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*Main Image when the page opens*/
 .hero {
     height: 800px;
     width: 100%;
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Section 1: Search Engine Optimisation, first blue box*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Section 2: Online Reputation Management, second blue box*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Section 3: Social Media Marketing, third blue box*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
